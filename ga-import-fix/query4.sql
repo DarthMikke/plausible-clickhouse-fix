@@ -1,0 +1,1 @@
+RENAME TABLE plausible_events_db.imported_locations2 TO plausible_events_db.imported_locations;

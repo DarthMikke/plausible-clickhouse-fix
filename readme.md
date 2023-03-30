@@ -4,7 +4,7 @@ Older versions of Plausible Analytics might have imported Google/Universal Analy
 in wrong format. This caused errors when making exports and creating 
 This is an implementation of a fix for issue
 [#1980](https://github.com/plausible/analytics/issues/1980) in Plausible repo, provided by
-@tssge .
+[@tssge](https://github.com/tssge) .
 
 ## 1 Docker network
 

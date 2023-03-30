@@ -1,8 +1,8 @@
 # Fix imported GA data
 
 Older versions of Plausible Analytics might have imported Google/Universal Analytics data
-in wrong format. This caused errors when making exports and creating 
-This is an implementation of a fix for issue
+in wrong format. This caused errors when making exports and previewing locations in the 
+map. This is an implementation of a fix for issue
 [#1980](https://github.com/plausible/analytics/issues/1980) in Plausible repo, provided by
 [@tssge](https://github.com/tssge) .
 
